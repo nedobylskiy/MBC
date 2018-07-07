@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/volume.png</file>
+        <file>images/player.png</file>
+        <file>images/stopped.png</file>
+        <file>images/playing.png</file>
+        <file>images/next.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/library.png</file>
+        <file>images/micoff.png</file>
+        <file>images/micon.png</file>
+        <file>images/micwait.png</file>
+        <file>images/record.png</file>
+        <file>images/recorda.png</file>
+        <file>images/recordd.png</file>
+        <file>images/error.png</file>
+        <file>images/fade1.png</file>
+        <file>images/fade2.png</file>
+        <file>images/fade3.png</file>
+        <file>images/fade4.png</file>
+        <file>images/configure.png</file>
+        <file>images/loading.png</file>
+        <file>images/vk.png</file>
+        <file>images/icon.png</file>
+        <file>images/exit.png</file>
+        <file>images/DJ.png</file>
+        <file>images/random.png</file>
+        <file>images/skype.png</file>
+        <file>images/nonair.png</file>
+        <file>images/onair.png</file>
+        <file>images/jingle.png</file>
+        <file>images/microphone.png</file>
+        <file>images/clock.png</file>
+    </qresource>
+</RCC>

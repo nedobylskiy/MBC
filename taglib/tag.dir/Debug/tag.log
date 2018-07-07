@@ -1,0 +1,634 @@
+﻿Построение начато 11.07.2012 0:52:21.
+     1>Проект "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\tag.vcxproj" в узле 3 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\Debug\".
+       InitializeBuildStatus:
+         Создание "tag.dir\Debug\tag.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Building Custom Rule C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/toolkit" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/asf" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/flac" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/flac" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpc" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mp4" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/vorbis" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/speex" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/id3v2" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/id3v2/frames" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/id3v1" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ape" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/wavpack" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/trueaudio" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/riff" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/riff/aiff" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/riff/wav" /I"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/.." /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D HAVE_CONFIG_H /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D "CMAKE_INTDIR=\"Debug\"" /D MAKE_TAGLIB_LIB /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /GR /Fo"tag.dir\Debug\\" /Fd"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\mpegfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\mpegproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\mpegheader.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\xingheader.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v1\id3v1tag.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v1\id3v1genres.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2framefactory.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2synchdata.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2tag.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2header.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2frame.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2footer.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\id3v2extendedheader.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\attachedpictureframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\commentsframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\generalencapsulatedobjectframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\popularimeterframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\privateframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\relativevolumeframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\textidentificationframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\uniquefileidentifierframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\unknownframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\unsynchronizedlyricsframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\id3v2\frames\urllinkframe.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\oggfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\oggpage.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\oggpageheader.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\xiphcomment.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\vorbis\vorbisfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\vorbis\vorbisproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\flac\oggflacfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpc\mpcfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpc\mpcproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ape\apetag.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ape\apefooter.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ape\apeitem.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ape\apefile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ape\apeproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tstring.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tstringlist.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tbytevector.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tbytevectorlist.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tdebug.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\unicode.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\flac\flacfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\flac\flacpicture.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\flac\flacproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\flac\flacmetadatablock.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\flac\flacunknownmetadatablock.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\wavpack\wavpackfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\wavpack\wavpackproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\speex\speexfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\speex\speexproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\trueaudio\trueaudiofile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\trueaudio\trueaudioproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\rifffile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\aiff\aifffile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\aiff\aiffproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\wav\wavfile.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\wav\wavproperties.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\tag.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\tagunion.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\fileref.cpp" "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\audioproperties.cpp"  /Zm1000 
+         mpegfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         mpegproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\mpeg\mpegproperties.cpp(224): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+         mpegheader.cpp
+         xingheader.cpp
+         id3v1tag.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         id3v1genres.cpp
+         id3v2framefactory.cpp
+         id3v2synchdata.cpp
+         id3v2tag.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         id3v2header.cpp
+         id3v2frame.cpp
+         id3v2footer.cpp
+         id3v2extendedheader.cpp
+         attachedpictureframe.cpp
+         commentsframe.cpp
+         generalencapsulatedobjectframe.cpp
+         popularimeterframe.cpp
+         privateframe.cpp
+         relativevolumeframe.cpp
+         textidentificationframe.cpp
+         Создание кода...
+         Компиляция...
+         uniquefileidentifierframe.cpp
+         unknownframe.cpp
+         unsynchronizedlyricsframe.cpp
+         urllinkframe.cpp
+         oggfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         oggpage.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         oggpageheader.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         xiphcomment.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\xiphcomment.cpp(315): warning C4018: >: несоответствие типов со знаком и без знака
+         vorbisfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         vorbisproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\ogg\vorbis\vorbisproperties.cpp(176): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+         oggflacfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         mpcfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         mpcproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         apetag.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         apefooter.cpp
+         apeitem.cpp
+         apefile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         apeproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         tstring.cpp
+         tstringlist.cpp
+         Создание кода...
+         Компиляция...
+         tbytevector.cpp
+         tbytevectorlist.cpp
+         tfile.cpp
+     1>c:\users\admin\documents\icecast\mbcs2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>c:\users\admin\documents\icecast\mbcs2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         tdebug.cpp
+         unicode.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\unicode.cpp(158): warning C4244: =: преобразование "Unicode::UTF32" в "Unicode::UTF8", возможна потеря данных
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\unicode.cpp(256): warning C4244: =: преобразование "Unicode::UTF32" в "Unicode::UTF16", возможна потеря данных
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\unicode.cpp(273): warning C4244: =: преобразование "unsigned long" в "Unicode::UTF16", возможна потеря данных
+         flacfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\flac\flacfile.cpp(201): warning C4309: =: усечение константного значения
+         flacpicture.cpp
+         flacproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         flacmetadatablock.cpp
+         flacunknownmetadatablock.cpp
+         wavpackfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         wavpackproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         speexfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         speexproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         trueaudiofile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         trueaudioproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         rifffile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         aifffile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         aiffproperties.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\aiff\aiffproperties.cpp(150): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\riff\aiff\aiffproperties.cpp(151): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+         wavfile.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         Создание кода...
+         Компиляция...
+         wavproperties.cpp
+         tag.cpp
+         tagunion.cpp
+         fileref.cpp
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(48): warning C4251: TagLib::FileName::m_name: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\toolkit\tfile.h(49): warning C4251: TagLib::FileName::m_wname: class "std::basic_string<_Elem,_Traits,_Ax>" должен иметь dll-интерфейс для использования клиентами class "TagLib::FileName"
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>,
+                     _Ax=std::allocator<wchar_t>
+                 ]
+         audioproperties.cpp
+         Создание кода...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"tag.dir\Debug\tagd.dll.embed.manifest.res" tag.dir\Debug\tagd_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\Debug\tagd.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"tag.dir\Debug\tagd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.lib" /MACHINE:X86 /DLL tag.dir\Debug\tagd.dll.embed.manifest.res
+         tag.dir\Debug\mpegfile.obj
+         tag.dir\Debug\mpegproperties.obj
+         tag.dir\Debug\mpegheader.obj
+         tag.dir\Debug\xingheader.obj
+         tag.dir\Debug\id3v1tag.obj
+         tag.dir\Debug\id3v1genres.obj
+         tag.dir\Debug\id3v2framefactory.obj
+         tag.dir\Debug\id3v2synchdata.obj
+         tag.dir\Debug\id3v2tag.obj
+         tag.dir\Debug\id3v2header.obj
+         tag.dir\Debug\id3v2frame.obj
+         tag.dir\Debug\id3v2footer.obj
+         tag.dir\Debug\id3v2extendedheader.obj
+         tag.dir\Debug\attachedpictureframe.obj
+         tag.dir\Debug\commentsframe.obj
+         tag.dir\Debug\generalencapsulatedobjectframe.obj
+         tag.dir\Debug\popularimeterframe.obj
+         tag.dir\Debug\privateframe.obj
+         tag.dir\Debug\relativevolumeframe.obj
+         tag.dir\Debug\textidentificationframe.obj
+         tag.dir\Debug\uniquefileidentifierframe.obj
+         tag.dir\Debug\unknownframe.obj
+         tag.dir\Debug\unsynchronizedlyricsframe.obj
+         tag.dir\Debug\urllinkframe.obj
+         tag.dir\Debug\oggfile.obj
+         tag.dir\Debug\oggpage.obj
+         tag.dir\Debug\oggpageheader.obj
+         tag.dir\Debug\xiphcomment.obj
+         tag.dir\Debug\vorbisfile.obj
+         tag.dir\Debug\vorbisproperties.obj
+         tag.dir\Debug\oggflacfile.obj
+         tag.dir\Debug\mpcfile.obj
+         tag.dir\Debug\mpcproperties.obj
+         tag.dir\Debug\apetag.obj
+         tag.dir\Debug\apefooter.obj
+         tag.dir\Debug\apeitem.obj
+         tag.dir\Debug\apefile.obj
+         tag.dir\Debug\apeproperties.obj
+         tag.dir\Debug\tstring.obj
+         tag.dir\Debug\tstringlist.obj
+         tag.dir\Debug\tbytevector.obj
+         tag.dir\Debug\tbytevectorlist.obj
+         tag.dir\Debug\tfile.obj
+         tag.dir\Debug\tdebug.obj
+         tag.dir\Debug\unicode.obj
+         tag.dir\Debug\flacfile.obj
+         tag.dir\Debug\flacpicture.obj
+         tag.dir\Debug\flacproperties.obj
+         tag.dir\Debug\flacmetadatablock.obj
+         tag.dir\Debug\flacunknownmetadatablock.obj
+         tag.dir\Debug\wavpackfile.obj
+         tag.dir\Debug\wavpackproperties.obj
+         tag.dir\Debug\speexfile.obj
+         tag.dir\Debug\speexproperties.obj
+         tag.dir\Debug\trueaudiofile.obj
+         tag.dir\Debug\trueaudioproperties.obj
+         tag.dir\Debug\rifffile.obj
+         tag.dir\Debug\aifffile.obj
+         tag.dir\Debug\aiffproperties.obj
+         tag.dir\Debug\wavfile.obj
+         tag.dir\Debug\wavproperties.obj
+         tag.dir\Debug\tag.obj
+         tag.dir\Debug\tagunion.obj
+         tag.dir\Debug\fileref.obj
+         tag.dir\Debug\audioproperties.obj  /machine:X86 /debug 
+            Создается библиотека C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.lib и объект C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"tag.dir\Debug\tagd.dll.embed.manifest" /manifest tag.dir\Debug\tagd.dll.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"tag.dir\Debug\tagd.dll.embed.manifest.res" tag.dir\Debug\tagd_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\Debug\tagd.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"tag.dir\Debug\tagd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.lib" /MACHINE:X86 /DLL tag.dir\Debug\tagd.dll.embed.manifest.res
+         tag.dir\Debug\mpegfile.obj
+         tag.dir\Debug\mpegproperties.obj
+         tag.dir\Debug\mpegheader.obj
+         tag.dir\Debug\xingheader.obj
+         tag.dir\Debug\id3v1tag.obj
+         tag.dir\Debug\id3v1genres.obj
+         tag.dir\Debug\id3v2framefactory.obj
+         tag.dir\Debug\id3v2synchdata.obj
+         tag.dir\Debug\id3v2tag.obj
+         tag.dir\Debug\id3v2header.obj
+         tag.dir\Debug\id3v2frame.obj
+         tag.dir\Debug\id3v2footer.obj
+         tag.dir\Debug\id3v2extendedheader.obj
+         tag.dir\Debug\attachedpictureframe.obj
+         tag.dir\Debug\commentsframe.obj
+         tag.dir\Debug\generalencapsulatedobjectframe.obj
+         tag.dir\Debug\popularimeterframe.obj
+         tag.dir\Debug\privateframe.obj
+         tag.dir\Debug\relativevolumeframe.obj
+         tag.dir\Debug\textidentificationframe.obj
+         tag.dir\Debug\uniquefileidentifierframe.obj
+         tag.dir\Debug\unknownframe.obj
+         tag.dir\Debug\unsynchronizedlyricsframe.obj
+         tag.dir\Debug\urllinkframe.obj
+         tag.dir\Debug\oggfile.obj
+         tag.dir\Debug\oggpage.obj
+         tag.dir\Debug\oggpageheader.obj
+         tag.dir\Debug\xiphcomment.obj
+         tag.dir\Debug\vorbisfile.obj
+         tag.dir\Debug\vorbisproperties.obj
+         tag.dir\Debug\oggflacfile.obj
+         tag.dir\Debug\mpcfile.obj
+         tag.dir\Debug\mpcproperties.obj
+         tag.dir\Debug\apetag.obj
+         tag.dir\Debug\apefooter.obj
+         tag.dir\Debug\apeitem.obj
+         tag.dir\Debug\apefile.obj
+         tag.dir\Debug\apeproperties.obj
+         tag.dir\Debug\tstring.obj
+         tag.dir\Debug\tstringlist.obj
+         tag.dir\Debug\tbytevector.obj
+         tag.dir\Debug\tbytevectorlist.obj
+         tag.dir\Debug\tfile.obj
+         tag.dir\Debug\tdebug.obj
+         tag.dir\Debug\unicode.obj
+         tag.dir\Debug\flacfile.obj
+         tag.dir\Debug\flacpicture.obj
+         tag.dir\Debug\flacproperties.obj
+         tag.dir\Debug\flacmetadatablock.obj
+         tag.dir\Debug\flacunknownmetadatablock.obj
+         tag.dir\Debug\wavpackfile.obj
+         tag.dir\Debug\wavpackproperties.obj
+         tag.dir\Debug\speexfile.obj
+         tag.dir\Debug\speexproperties.obj
+         tag.dir\Debug\trueaudiofile.obj
+         tag.dir\Debug\trueaudioproperties.obj
+         tag.dir\Debug\rifffile.obj
+         tag.dir\Debug\aifffile.obj
+         tag.dir\Debug\aiffproperties.obj
+         tag.dir\Debug\wavfile.obj
+         tag.dir\Debug\wavproperties.obj
+         tag.dir\Debug\tag.obj
+         tag.dir\Debug\tagunion.obj
+         tag.dir\Debug\fileref.obj
+         tag.dir\Debug\audioproperties.obj  /machine:X86 /debug 
+            Создается библиотека C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.lib и объект C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/Debug/tagd.exp
+         tag.vcxproj -> C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\Debug\tagd.dll
+       FinalizeBuildStatus:
+         Файл "tag.dir\Debug\tag.unsuccessfulbuild" удаляется.
+         Обращение к "tag.dir\Debug\tag.lastbuildstate".
+     1>Построение проекта "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\taglib\tag.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:01:50.24

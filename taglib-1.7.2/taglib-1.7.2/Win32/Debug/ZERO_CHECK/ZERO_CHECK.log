@@ -1,0 +1,41 @@
+﻿Построение начато 11.07.2012 0:52:19.
+     1>Проект "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\ZERO_CHECK.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\Debug\".
+       InitializeBuildStatus:
+         Создание "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/toolkit/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/asf/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/id3v1/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/id3v2/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpeg/id3v2/frames/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/vorbis/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/speex/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ogg/flac/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/flac/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/ape/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mpc/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/mp4/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/wavpack/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/trueaudio/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/riff/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/riff/aiff/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/riff/wav/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/tests/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/examples/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/bindings/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/bindings/c/CMakeFiles/generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Файл "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" удаляется.
+         Обращение к "Win32\Debug\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
+     1>Построение проекта "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\ZERO_CHECK.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.91

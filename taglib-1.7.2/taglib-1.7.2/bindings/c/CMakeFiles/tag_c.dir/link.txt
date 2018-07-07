@@ -1,0 +1,1 @@
+C:\Dev-Cpp\bin\g++.exe     -shared -o libtag_c.dll -Wl,--out-implib,libtag_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 CMakeFiles/tag_c.dir/tag_c.cpp.obj ..\..\taglib\libtag.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

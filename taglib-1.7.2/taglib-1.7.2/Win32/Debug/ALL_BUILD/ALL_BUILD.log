@@ -1,0 +1,16 @@
+﻿Построение начато 11.07.2012 0:54:21.
+     1>Проект "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\ALL_BUILD.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Win32\Debug\ALL_BUILD\ALL_BUILD.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Building Custom Rule C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\generate.stamp is up-to-date.
+         Build all projects
+       FinalizeBuildStatus:
+         Файл "Win32\Debug\ALL_BUILD\ALL_BUILD.unsuccessfulbuild" удаляется.
+         Обращение к "Win32\Debug\ALL_BUILD\ALL_BUILD.lastbuildstate".
+     1>Построение проекта "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\ALL_BUILD.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.98

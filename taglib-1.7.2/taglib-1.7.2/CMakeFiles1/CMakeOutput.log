@@ -1,0 +1,123 @@
+The system is: Windows - 6.1 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1914209290
+
+Microsoft (R) Visual Studio ┬хЁёш  10.0.30319.1.
+(C) ╩юЁяюЁрЎш  ╠рщъЁюёюЇЄ (Microsoft Corp.). ┬ёх яЁртр чр∙ш∙хэ√.
+1>------ Построение начато: проект: cmTryCompileExec1914209290, Конфигурация: Debug Win32 ------
+1>Построение начато 11.07.2012 0:50:33.
+1>PrepareForBuild:
+1>  Создание каталога "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Создание "cmTryCompileExec1914209290.dir\Debug\cmTryCompileExec1914209290.unsuccessfulbuild", так как было задано "AlwaysCreate".
+1>ClCompile:
+1>  Оптимизирующий 32-разрядный компилятор Microsoft (R) C/C++ версии 16.00.30319.01 для 80x86
+1>  (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1914209290.dir\Debug\\" /Fd"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1914209290.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\testCCompiler.c"  /Zm1000 
+1>  
+1>  testCCompiler.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec1914209290.vcxproj -> C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1914209290.exe
+1>FinalizeBuildStatus:
+1>  Файл "cmTryCompileExec1914209290.dir\Debug\cmTryCompileExec1914209290.unsuccessfulbuild" удаляется.
+1>  Обращение к "cmTryCompileExec1914209290.dir\Debug\cmTryCompileExec1914209290.lastbuildstate".
+1>
+1>Построение успешно завершено.
+1>
+1>Затраченное время: 00:00:04.50
+========== Построение: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3864270507
+
+Microsoft (R) Visual Studio ┬хЁёш  10.0.30319.1.
+(C) ╩юЁяюЁрЎш  ╠рщъЁюёюЇЄ (Microsoft Corp.). ┬ёх яЁртр чр∙ш∙хэ√.
+1>------ Построение начато: проект: cmTryCompileExec3864270507, Конфигурация: Debug Win32 ------
+1>Построение начато 11.07.2012 0:50:42.
+1>InitializeBuildStatus:
+1>  Создание "cmTryCompileExec3864270507.dir\Debug\cmTryCompileExec3864270507.unsuccessfulbuild", так как было задано "AlwaysCreate".
+1>ClCompile:
+1>  Оптимизирующий 32-разрядный компилятор Microsoft (R) C/C++ версии 16.00.30319.01 для 80x86
+1>  (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3864270507.dir\Debug\\" /Fd"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3864270507.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\CMake\share\cmake-2.8\Modules\CMakeCCompilerABI.c"  /Zm1000 
+1>  
+1>  CMakeCCompilerABI.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3864270507.vcxproj -> C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3864270507.exe
+1>FinalizeBuildStatus:
+1>  Файл "cmTryCompileExec3864270507.dir\Debug\cmTryCompileExec3864270507.unsuccessfulbuild" удаляется.
+1>  Обращение к "cmTryCompileExec3864270507.dir\Debug\cmTryCompileExec3864270507.lastbuildstate".
+1>
+1>Построение успешно завершено.
+1>
+1>Затраченное время: 00:00:04.13
+========== Построение: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2305584804
+
+Microsoft (R) Visual Studio ┬хЁёш  10.0.30319.1.
+(C) ╩юЁяюЁрЎш  ╠рщъЁюёюЇЄ (Microsoft Corp.). ┬ёх яЁртр чр∙ш∙хэ√.
+1>------ Построение начато: проект: cmTryCompileExec2305584804, Конфигурация: Debug Win32 ------
+1>Построение начато 11.07.2012 0:50:50.
+1>InitializeBuildStatus:
+1>  Создание "cmTryCompileExec2305584804.dir\Debug\cmTryCompileExec2305584804.unsuccessfulbuild", так как было задано "AlwaysCreate".
+1>ClCompile:
+1>  Оптимизирующий 32-разрядный компилятор Microsoft (R) C/C++ версии 16.00.30319.01 для 80x86
+1>  (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2305584804.dir\Debug\\" /Fd"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2305584804.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"  /Zm1000 
+1>  
+1>  testCXXCompiler.cxx
+1>LinkEmbedManifest:
+1>  cmTryCompileExec2305584804.vcxproj -> C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2305584804.exe
+1>FinalizeBuildStatus:
+1>  Файл "cmTryCompileExec2305584804.dir\Debug\cmTryCompileExec2305584804.unsuccessfulbuild" удаляется.
+1>  Обращение к "cmTryCompileExec2305584804.dir\Debug\cmTryCompileExec2305584804.lastbuildstate".
+1>
+1>Построение успешно завершено.
+1>
+1>Затраченное время: 00:00:03.54
+========== Построение: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec911135563
+
+Microsoft (R) Visual Studio ┬хЁёш  10.0.30319.1.
+(C) ╩юЁяюЁрЎш  ╠рщъЁюёюЇЄ (Microsoft Corp.). ┬ёх яЁртр чр∙ш∙хэ√.
+1>------ Построение начато: проект: cmTryCompileExec911135563, Конфигурация: Debug Win32 ------
+1>Построение начато 11.07.2012 0:50:58.
+1>InitializeBuildStatus:
+1>  Создание "cmTryCompileExec911135563.dir\Debug\cmTryCompileExec911135563.unsuccessfulbuild", так как было задано "AlwaysCreate".
+1>ClCompile:
+1>  Оптимизирующий 32-разрядный компилятор Microsoft (R) C/C++ версии 16.00.30319.01 для 80x86
+1>  (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec911135563.dir\Debug\\" /Fd"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec911135563.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\CMake\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"  /Zm1000 
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>LinkEmbedManifest:
+1>  cmTryCompileExec911135563.vcxproj -> C:\Users\Admin\Documents\IceCast\MBCS2.0\taglib-1.7.2\taglib-1.7.2\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec911135563.exe
+1>FinalizeBuildStatus:
+1>  Файл "cmTryCompileExec911135563.dir\Debug\cmTryCompileExec911135563.unsuccessfulbuild" удаляется.
+1>  Обращение к "cmTryCompileExec911135563.dir\Debug\cmTryCompileExec911135563.lastbuildstate".
+1>
+1>Построение успешно завершено.
+1>
+1>Затраченное время: 00:00:04.44
+========== Построение: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
+
+

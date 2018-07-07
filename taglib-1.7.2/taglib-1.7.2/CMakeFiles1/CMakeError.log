@@ -1,0 +1,26 @@
+Determining if the function __RTTI___ exists in the Crun failed with the following output:
+Change Dir: C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~1\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec482417825
+
+Microsoft (R) Visual Studio ┬хЁёш  10.0.30319.1.
+(C) ╩юЁяюЁрЎш  ╠рщъЁюёюЇЄ (Microsoft Corp.). ┬ёх яЁртр чр∙ш∙хэ√.
+1>------ Построение начато: проект: cmTryCompileExec482417825, Конфигурация: Debug Win32 ------
+1>Построение начато 11.07.2012 0:51:07.
+1>InitializeBuildStatus:
+1>  Создание "cmTryCompileExec482417825.dir\Debug\cmTryCompileExec482417825.unsuccessfulbuild", так как было задано "AlwaysCreate".
+1>ClCompile:
+1>  Оптимизирующий 32-разрядный компилятор Microsoft (R) C/C++ версии 16.00.30319.01 для 80x86
+1>  (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=__RTTI___ /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec482417825.dir\Debug\\" /Fd"C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec482417825.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\CMake\share\cmake-2.8\Modules\CheckFunctionExists.c"  /Zm1000 
+1>  
+1>  CheckFunctionExists.c
+1>LINK : fatal error LNK1104: не удается открыть файл "Crun.lib"
+1>
+1>СБОЙ построения.
+1>
+1>Затраченное время: 00:00:01.51
+========== Построение: успешно: 0, с ошибками: 1, без изменений: 0, пропущено: 0 ==========
+
+

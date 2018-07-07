@@ -1,0 +1,68 @@
+/********************************************************************************
+** Form generated from reading UI file 'playlist.ui'
+**
+** Created: Thu 18. Oct 21:33:29 2012
+**      by: Qt User Interface Compiler version 4.8.1
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_PLAYLIST_H
+#define UI_PLAYLIST_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QGroupBox>
+#include <QtGui/QHeaderView>
+#include <QtGui/QTreeWidget>
+#include <QtGui/QVBoxLayout>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_PlayList
+{
+public:
+    QVBoxLayout *verticalLayout;
+  //  QGroupBox *groupBox;
+    QVBoxLayout *verticalLayout_2;
+    //QTreeWidget *treeWidget;
+
+    void setupUi(QWidget *PlayList)
+    {
+        if (PlayList->objectName().isEmpty())
+            PlayList->setObjectName(QString::fromUtf8("PlayList"));
+        PlayList->resize(424, 244);
+        PlayList->setMinimumSize(QSize(424, 244));
+        verticalLayout = new QVBoxLayout(PlayList);
+        verticalLayout->setSpacing(2);
+        verticalLayout->setContentsMargins(2, 2, 2, 2);
+        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+
+
+        //verticalLayout->addWidget(groupBox);
+
+
+        retranslateUi(PlayList);
+
+        QMetaObject::connectSlotsByName(PlayList);
+    } // setupUi
+
+    void retranslateUi(QWidget *PlayList)
+    {
+        PlayList->setWindowTitle(QApplication::translate("PlayList", "Form", 0, QApplication::UnicodeUTF8));
+        //groupBox->setTitle(QApplication::translate("PlayList", "Playlist", 0, QApplication::UnicodeUTF8));
+
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class PlayList: public Ui_PlayList {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_PLAYLIST_H

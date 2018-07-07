@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/CMakeFiles/docs.dir
+C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/taglib/CMakeFiles/tag.dir
+C:/Users/Admin/Documents/IceCast/MBCS2.0/taglib-1.7.2/taglib-1.7.2/bindings/c/CMakeFiles/tag_c.dir
